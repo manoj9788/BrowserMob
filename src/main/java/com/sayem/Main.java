@@ -69,7 +69,7 @@ public class Main {
 
         // Navigate to target webpage
         try {
-            driver.navigate().to("http://www.google.com");
+            driver.navigate().to("http://www.totsy.com");
 
 
             Thread.sleep(2000);
